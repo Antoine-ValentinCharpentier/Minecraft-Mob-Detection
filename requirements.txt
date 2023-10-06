@@ -1,1 +1,4 @@
 pandas
+tensorflow=2.14.0
+scipy=1.11.3
+Pillow=10.0.1
